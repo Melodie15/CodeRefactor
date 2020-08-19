@@ -6,3 +6,6 @@ SCREENSHOT-
 <img src="screenshot.png" alt="screenshot of assignment">
 
 LINK TO THE ASSIGNMENT- https://melodie15.github.io/fatimrobbins.coderefactor/ 
+
+Fatim S.Robbins
+fmsis@hotmail.com
