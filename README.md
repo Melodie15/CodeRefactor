@@ -7,5 +7,5 @@ SCREENSHOT-
 
 LINK TO THE ASSIGNMENT- https://melodie15.github.io/fatimrobbins.coderefactor/ 
 
-Fatim S.Robbins
+Fatim S. Robbins
 fmsis@hotmail.com
